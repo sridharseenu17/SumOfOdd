@@ -12,6 +12,8 @@ public class Sum {
 			}
 		}
 		System.out.println("Sum of odd numbers is "+sum);
-		System.out.println("Update code done for SumOfOdd");
+		System.out.println("Update code done for SumOfOdd"); 
+	    System.out.println("sam");
+	    
 	}
 }
